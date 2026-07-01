@@ -103,10 +103,127 @@ while True:
         print()
         print(f'Thanks for training {name}!')
         break
-#UNFINISHED
+    
+# Challenge: RPG Training Arena
+# Goal
+
+# Create a tiny training simulator.
+
+# Step 1
+
+# Ask the user:
+
+# Enter your warrior's name:
+
+# Then ask:
+
+# How many enemies would you like to fight?
+# Step 2
+
+# Print
+
+# ====================
+#  TRAINING ARENA
+# ====================
+# Step 3
+
+# Use a for loop with range().
+
+# Example:
+
+# If the user enters 5:
+
+# Enemy 1 appeared!
+# Enemy 2 appeared!
+# Enemy 3 appeared!
+# Enemy 4 appeared!
+# Enemy 5 appeared!
+# ⭐ Bonus 1 (continue)
+
+# If the enemy number is 3:
+
+# Print
+
+# Enemy 3 ran away!
+
+# Then use continue.
+
+# So it should NOT print
+
+# You defeated Enemy 3!
+# ⭐⭐ Bonus 2 (break)
+
+# When the enemy number reaches 7:
+
+# Print
+
+# A Boss appeared!
+# You escaped!
+
+# Then stop the loop using break.
+
+# Even if the player wanted to fight 20 enemies.
+
+# ⭐⭐⭐ Bonus 3 (while loop)
+
+# After the battle:
+
+# Ask:
+
+# Train again? (yes/no)
+
+# Keep asking until they type either:
+
+# yes
+
+# or
+
+# no
+
+# If they type:
+
+# banana
+
+# Print
+
+# Invalid option.
+
+# and ask again.
+
+# (Hint: while True.)
+
+# ⭐⭐⭐⭐ Final Boss
+
+# Count how many enemies were actually defeated.
+
+# Example:
+
+# If the user fought:
+
+# 1
+# 2
+# 3 (ran away)
+# 4
+# 5
+# 6
+# 7 (boss)
+
+# Output:
+
+# Training complete!
+
+# Warrior: BlackifiedBro
+
+# Enemies defeated: 5
+
+# Notice:
+
+# Enemy 3 doesn't count.
+# Enemy 7 doesn't count because you escaped.
 
 
-
+#summary i mean not bad but kind of bad too it took me to the next morning to actually make the challenge work.
+#but overall nice
     
             
 
